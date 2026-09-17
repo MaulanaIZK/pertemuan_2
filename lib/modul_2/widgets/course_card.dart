@@ -85,9 +85,7 @@ class CourseCard extends StatelessWidget {
                     ),
                   ],
                 ),
-                // Jarak vertikal tetap sebelum progress bar.
-                // Jangan gunakan Spacer: tinggi Column ini mengikuti konten Card,
-                // sehingga tidak memiliki sisa tinggi yang pasti untuk dibagi.
+
                 const SizedBox(height: 16),
 
                 // Progress bar silabus
