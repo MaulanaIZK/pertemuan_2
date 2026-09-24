@@ -2,10 +2,10 @@ import "package:flutter/material.dart";
 
 import "modul_3/modul_03_app.dart";
 import "modul_2/academic_dashboard_screen.dart";
-import "modul_4";
+import "modul_5/modul_05_app.dart";
 
 main() {
-  runApp((AcademicDashboardScreen()));
+  runApp((Modul05App()));
 }
 
 // class MyApp extends StatelessWidget {
